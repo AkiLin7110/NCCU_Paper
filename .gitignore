@@ -3,3 +3,4 @@ pivot_df.csv
 pivor_df.csv
 pivot_df.pkl
 raw_data.csv
+*.pth
