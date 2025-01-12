@@ -1,9 +1,11 @@
-# AKI NCCU Paper
-This is a repo of Aki NCCU Paper.
+# Aki NCCU Thesis
+口試.ppt
 
-## Download the large files from Google Drive
+# 執行檔
+Examine_Paper_V2.ipynb
 
-Data is at [this gdrive](https://drive.google.com/drive/folders/1EB3rqH8z0Hpx7oGjBDwAVkamRYTLsNht?usp=sharing)
+# 相關分析及視覺化
+Paper_V2.ipynb
 
 ### Usage
 Pull data
